@@ -1,0 +1,13 @@
+C:\Users\Nathaniel.LAPTOP-MJFS3GNQ\Documents\Uni\Computer Science\OOP\LincolnGame\bin\Debug\netcoreapp3.1\LincolnGame.exe
+C:\Users\Nathaniel.LAPTOP-MJFS3GNQ\Documents\Uni\Computer Science\OOP\LincolnGame\bin\Debug\netcoreapp3.1\LincolnGame.deps.json
+C:\Users\Nathaniel.LAPTOP-MJFS3GNQ\Documents\Uni\Computer Science\OOP\LincolnGame\bin\Debug\netcoreapp3.1\LincolnGame.runtimeconfig.json
+C:\Users\Nathaniel.LAPTOP-MJFS3GNQ\Documents\Uni\Computer Science\OOP\LincolnGame\bin\Debug\netcoreapp3.1\LincolnGame.runtimeconfig.dev.json
+C:\Users\Nathaniel.LAPTOP-MJFS3GNQ\Documents\Uni\Computer Science\OOP\LincolnGame\bin\Debug\netcoreapp3.1\LincolnGame.dll
+C:\Users\Nathaniel.LAPTOP-MJFS3GNQ\Documents\Uni\Computer Science\OOP\LincolnGame\bin\Debug\netcoreapp3.1\LincolnGame.pdb
+C:\Users\Nathaniel.LAPTOP-MJFS3GNQ\Documents\Uni\Computer Science\OOP\LincolnGame\obj\Debug\netcoreapp3.1\LincolnGame.csprojAssemblyReference.cache
+C:\Users\Nathaniel.LAPTOP-MJFS3GNQ\Documents\Uni\Computer Science\OOP\LincolnGame\obj\Debug\netcoreapp3.1\LincolnGame.AssemblyInfoInputs.cache
+C:\Users\Nathaniel.LAPTOP-MJFS3GNQ\Documents\Uni\Computer Science\OOP\LincolnGame\obj\Debug\netcoreapp3.1\LincolnGame.AssemblyInfo.cs
+C:\Users\Nathaniel.LAPTOP-MJFS3GNQ\Documents\Uni\Computer Science\OOP\LincolnGame\obj\Debug\netcoreapp3.1\LincolnGame.csproj.CoreCompileInputs.cache
+C:\Users\Nathaniel.LAPTOP-MJFS3GNQ\Documents\Uni\Computer Science\OOP\LincolnGame\obj\Debug\netcoreapp3.1\LincolnGame.dll
+C:\Users\Nathaniel.LAPTOP-MJFS3GNQ\Documents\Uni\Computer Science\OOP\LincolnGame\obj\Debug\netcoreapp3.1\LincolnGame.pdb
+C:\Users\Nathaniel.LAPTOP-MJFS3GNQ\Documents\Uni\Computer Science\OOP\LincolnGame\obj\Debug\netcoreapp3.1\LincolnGame.genruntimeconfig.cache
