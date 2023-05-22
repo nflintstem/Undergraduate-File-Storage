@@ -22,6 +22,8 @@ Artificial Intelligence - C++, Python, PDDL
 ### Third Year
 Big Data - Python
 
+Numerical Methods - Python in a Jupyter Notebook
+
 Mathematics Project - C#
 
 Parallel Programming - C++ with OpenCL
