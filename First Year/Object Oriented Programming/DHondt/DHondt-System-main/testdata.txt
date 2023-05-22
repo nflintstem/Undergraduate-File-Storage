@@ -1,0 +1,9 @@
+Brexit Party,452321
+Liberal Democrats,203989
+Labour,164682
+Conservative,126138
+Green,124630
+UKIP,58198
+Change UK,41117
+Independent Network,7641
+Independent,4511

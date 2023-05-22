@@ -1,0 +1,7 @@
+C:\Users\Nathaniel.LAPTOP-MJFS3GNQ\Documents\GitHub\DHondt-System\DHondtGit\obj\Debug\DHondtGit.csproj.CoreCompileInputs.cache
+C:\Users\Nathaniel.LAPTOP-MJFS3GNQ\Documents\GitHub\DHondt-System\DHondtGit\bin\Debug\DHondtGit.exe.config
+C:\Users\Nathaniel.LAPTOP-MJFS3GNQ\Documents\GitHub\DHondt-System\DHondtGit\bin\Debug\DHondtGit.exe
+C:\Users\Nathaniel.LAPTOP-MJFS3GNQ\Documents\GitHub\DHondt-System\DHondtGit\bin\Debug\DHondtGit.pdb
+C:\Users\Nathaniel.LAPTOP-MJFS3GNQ\Documents\GitHub\DHondt-System\DHondtGit\obj\Debug\DHondtGit.exe
+C:\Users\Nathaniel.LAPTOP-MJFS3GNQ\Documents\GitHub\DHondt-System\DHondtGit\obj\Debug\DHondtGit.pdb
+C:\Users\Nathaniel.LAPTOP-MJFS3GNQ\Documents\GitHub\DHondt-System\DHondtGit\obj\Debug\DHondtGit.csprojAssemblyReference.cache
