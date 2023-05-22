@@ -1,0 +1,18 @@
+﻿  botRandom.cpp
+  botSimple.cpp
+  botSimple2.cpp
+  Dijkstra.cpp
+C:\Users\User\Downloads\PathFinderCpp\Dijkstra.cpp(22,24): warning C4305: '=': truncation from 'int' to 'float'
+C:\Users\User\Downloads\PathFinderCpp\Dijkstra.cpp(37,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\PathFinderCpp\Dijkstra.cpp(47,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\PathFinderCpp\Dijkstra.cpp(74,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\PathFinderCpp\Dijkstra.cpp(106,24): warning C4305: '=': truncation from 'int' to 'float'
+C:\Users\User\Downloads\PathFinderCpp\Dijkstra.cpp(121,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\PathFinderCpp\Dijkstra.cpp(131,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\PathFinderCpp\Dijkstra.cpp(150,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\PathFinderCpp\Dijkstra.cpp(160,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\PathFinderCpp\Dijkstra.cpp(161,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  level.cpp
+  main.cpp
+  Generating Code...
+  PathFinderCpp.vcxproj -> C:\Users\User\Downloads\PathFinderCpp\Debug\PathFinderCpp.exe
