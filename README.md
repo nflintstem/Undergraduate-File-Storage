@@ -1,5 +1,5 @@
-# UnderGradStorage
-This is a repo with most of the code I have written across my undergraduate in Mathematics and Computer Science. Touching on a wide range of languages, from Python to C#, MATLAB to C++, this serves as a better way to store my program files as I clear out other cloud storage. Despite the language diversity, the repo is segregated by year, not language. This is for storage purposes only. In each section there is an about, which will detail contents of each section as far as can be remembered
+# Undergraduate Storage
+This is a repo with most of the code I have written across my undergraduate in Mathematics and Computer Science. Touching on a wide range of languages, from Python to C#, MATLAB to C++, this serves as a better way to store my program files as I clear out other cloud storage. Despite the language diversity, the repo is segregated by year, not language. This is for cloud storage purposes only, as I have deemed Google Drive not adequate for storing code (read: I want to be able to read my work nicely). In each section there *should be* an about, which will detail contents of each section as far as can be remembered
 
 ## Contents
 
