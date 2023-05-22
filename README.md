@@ -5,14 +5,19 @@ This is a repo with most of the code I have written across my undergraduate in M
 
 ### First Year
 Programming Fundamentals - Python
+
 Object Oriented Programming - C#
 
 ### Second Year
 Advanced Programming - C++
+
 Industrial and Financial Mathematics - MATLAB
+
 Artificial Intelligence - C++, Python, PDDL
 
 ### Third Year
 Big Data - Python
+
 Mathematics Project - C#
+
 Parallel Programming - C++ with OpenCL
