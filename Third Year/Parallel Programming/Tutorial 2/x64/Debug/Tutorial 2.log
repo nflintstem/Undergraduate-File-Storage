@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Tutorial 2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Tutorial 2.vcxproj -> C:\Users\itsNaterino\Documents\ParallelProg\Assign1\x64\Debug\Program\Program.exe
+  File not found - *
+  0 File(s) copied
+  kernels\my_kernels.cl
+  1 File(s) copied
+  File not found - *
+  0 File(s) copied
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: The command "xcopy /y "..\images\*" "C:\Users\itsNaterino\Documents\ParallelProg\Assign1\Tutorial 2\"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: xcopy /s /i /y "kernels" "C:\Users\itsNaterino\Documents\ParallelProg\Assign1\x64\Debug\Program\kernels"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: xcopy /y "..\images\*" "C:\Users\itsNaterino\Documents\ParallelProg\Assign1\x64\Debug\Program\"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: :VCEnd" exited with code 4.
